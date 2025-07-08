@@ -68,18 +68,6 @@ npm run dev
 
 ---
 
-## 📦 Available Commands (Optional Artisan-like CLI)
-
-You may define an entry-point like `index.js` or `artisan.js` to handle commands like:
-
-```bash
-node index.js make:controller UserController
-node index.js migrate
-node index.js seed
-```
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome and encouraged!
