@@ -61,9 +61,9 @@ DB_NAME=nodelaravel
 ## 🏃 Running the App
 
 ```bash
-npm start
+node index.js
 # or if you use nodemon:
-npm run dev
+nodemon
 ```
 
 ---
