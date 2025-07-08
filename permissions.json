@@ -1,0 +1,77 @@
+[{
+    "name": "index_role",
+    "short_category_code": "ROLE",
+    "createdAt": null
+},{
+    "name": "add_role",
+    "short_category_code": "ROLE",
+    "createdAt": null
+},{
+    "name": "edit_role",
+    "short_category_code": "ROLE",
+    "createdAt": null
+},{
+    "name": "delete_role",
+    "short_category_code": "ROLE",
+    "createdAt": null
+},{
+    "name": "manage_permission",
+    "short_category_code": "ROLE",
+    "createdAt": null
+},{
+    "name": "index_business_unit",
+    "short_category_code": "ROLE",
+    "createdAt": null
+},{
+    "name": "add_business_unit",
+    "short_category_code": "BUSINESS_UNITS",
+    "createdAt": null
+},{
+    "name": "edit_business_unit",
+    "short_category_code": "BUSINESS_UNITS",
+    "createdAt": null
+},{
+    "name": "delete_business_unit",
+    "short_category_code": "BUSINESS_UNITS",
+    "createdAt": null
+},{
+    "name": "index_users",
+    "short_category_code": "USERS",
+    "createdAt": null
+},{
+    "name": "add_users",
+    "short_category_code": "USERS",
+    "createdAt": null
+},{
+    "name": "edit_users",
+    "short_category_code": "USERS",
+    "createdAt": null
+},{
+    "name": "delete_users",
+    "short_category_code": "USERS",
+    "createdAt": null
+},{
+    "name": "archive_users",
+    "short_category_code": "USERS",
+    "createdAt": null
+},{
+    "name": "index_projects",
+    "short_category_code": "PROJECTS",
+    "createdAt": null
+},{
+    "name": "add_projects",
+    "short_category_code": "PROJECTS",
+    "createdAt": null
+},{
+    "name": "edit_projects",
+    "short_category_code": "PROJECTS",
+    "createdAt": null
+},{
+    "name": "delete_projects",
+    "short_category_code": "PROJECTS",
+    "createdAt": null
+},{
+    "name": "archive_projects",
+    "short_category_code": "PROJECTS",
+    "createdAt": null
+}]

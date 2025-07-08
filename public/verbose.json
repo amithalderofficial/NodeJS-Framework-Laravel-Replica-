@@ -1,0 +1,87 @@
+{
+    "password_required" : "Password is required.",
+    "cnf_password_required" : "Confirm Password is required.",
+    "email_required" : "Email address is required.",
+    "invalid_email_address" : "Please enter a valida email address",
+    "password_min" : "Password must be at least 6 characters long.",
+    "password_max" : "Password must be less than 12 characters long.",
+    "invalid_password" : "Invalid username or password. Please try again.",
+    "inactive_user" : "User is inactive. Please contact the Super Admin for assistance.",
+    "inactive_account" : "Your account is inactive. Access denied.",
+    "SSO_token_expaired" : "SSO token expired. Please login again.",
+    "reset_password_submit": "Your password has been successfully reset. Please log in now!",
+    "password_confirm_password_match" : "The password confirmation does not match. Please re-enter your password.",
+    "reset_password_invalid_email" : "Invalid email address.",
+    "password_container_check_msg" : "Password must contain at least 8 characters, including a number and a special character.",
+    "incorrect_email_id" : "This email ID is not registered in system.",
+    "not_allowed_forgot_password" : "This user is not allowed to use the ‘Forgot Password’ feature.",
+    "reset_success_mail_link" : "Password reset link sent to your registered email.",
+
+    "permission_mapped_successfully" : "Permission mapped to role successfully",
+    "role_updated_successfull" : "Role Updated successfully",
+    "role_addedd_successfull" : "Role Addedd successfully",
+    "not_checked_permission" : "You have not check any permission",
+
+    "role_name_add_required" : "Please enter role name",
+    "role_name_add_min_length" : "Role name must consist of at least 3 characters",
+    "role_name_add_max_length" : "Role name must consist of maximum 40 characters",
+    "role_description_required" : "Please enter role description",
+    "role_name_add_regex" : "Invalid role name, please remove special characters",
+    "role_name_add_exists" : "Role name already exists",
+
+    "role_description_min_length" : "Description must consist of at least 10 characters",
+    "role_description_max_length" : "Description must consist of at least 100 characters",
+    "role_description_regex" : "Invalid role description, please remove special characters",
+    "role_associated_with_user" : "This permission is associated with role & user, Unassociate the permission then try again",
+
+
+    "bu_add_name_error" : "Please enter business unit name",
+    "bu_add_name_exist" : "Business Unit already exist in record",
+    "bu_add_desc_error" : "Description is required",
+    "bu_addedd_success" : "Business Unit Addedd Successfully",
+    "bu_edited_success" : "Business Unit Updated Successfully",
+
+    "employee_add_email_max" : "Email address must be between 10 to 70 characters",
+    "employee_add_email_unique" : "Email address is already exist",
+
+    "employee_add_name_required" : "Please enter employee name",
+    "employee_add_name_min" : "Name must be minimum 3 character",
+    "employee_add_name_max" : "Name must be maximum 40 character",
+    "employee_add_name_regex" : "Name should not contain special character",
+
+    "employee_add_country_code_required" : "Country Code is required",
+    "employee_add_country_code_min" : "Country Code must be 2 charcter",
+    "employee_add_country_code_max" : "Country Code must not be greater than 6 character",
+
+    "employee_add_contact_required" : "Contact is required",
+    "employee_add_contact_unique" : "Contact number already exist",
+    "employee_add_contact_min" : "Contact number must be 10 characters",
+    "employee_add_contact_max" : "Contact number must be 10 characters",
+
+    "employee_add_code_required" : "Employee Code is required",
+    "employee_add_code_min" : "Employee Code must be 3 charcter",
+    "employee_add_code_max" : "Employee Code must not be greater than 20 character",
+
+    "employee_add_pincode_required" : "Pin Code is required",
+    "employee_add_pincode_min" : "Pin Code must be 6 charcter",
+    "employee_add_pincode_max" : "Pin Code must not be greater than 6 character",
+
+    "employee_add_state_required" : "Please enter state",
+    "employee_add_state_min" : "State must be minimum 3 character",
+    "employee_add_state_max" : "State must be maximum 40 character",
+    "employee_add_state_regex" : "State should not contain special character",
+
+    "employee_add_city_required" : "Please enter city",
+    "employee_add_city_min" : "City must be minimum 3 character",
+    "employee_add_city_max" : "City must be maximum 40 character",
+    "employee_add_city_regex" : "City should not contain special character",
+
+    "employee_add_address_required" : "Please enter address",
+    "employee_add_address_min" : "Address must be minimum 3 character",
+    "employee_add_address_max" : "Address must be maximum 40 character",
+    "employee_add_address_regex" : "Address should not contain special character",
+
+    "something_went_wrong" : "Something went wrong, Try again after sometime",
+    "page_expaire" : "Page expaire"
+
+}
